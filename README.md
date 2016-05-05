@@ -97,7 +97,7 @@ When it's done, launch your newly created angular application to make sure every
 grunt serve
 ```
 
-Then point your browser at `http://localhost:9100` just to be greeted by the underwhelming *Hello world* default page.
+Then point your browser at `http://localhost:9001` just to be greeted by the underwhelming *Hello world* default page.
 
 Hit `ctrl c` if you want to stop it.
 
